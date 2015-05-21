@@ -108,8 +108,12 @@ extension JW3DDiceView {
             return
         }
     }
-    func deleteDice(dice: JW3DDice) {
-        dice.removeFromSuperview()
+    func deleteDice(dice: JW3DDice?) {
+        if let dice = dice {
+            dice.removeFromSuperview()
+        } else {
+            diceViews.last?.removeFromSuperview()
+        }
         delegate?.diceViewDidDeleteDice(self)
         if diceCount == maxDiceCount - 1 {
             delegate?.diceViewDidGoUnderMaxDiceCount(self)
