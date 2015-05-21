@@ -2,7 +2,7 @@
 
 Allows you to easily implement a 3D DiceView into your application. 
 
-Used in App [Dice Field 3D](https://itunes.apple.com/us/app/dice-field-3d/id946490633?mt=8) in the App Store. 
+Used in App [Dice Field 3D](https://itunes.apple.com/us/app/dice-field-3d/id946490633?mt=8) in the App Store [Open Source](https://github.com/jackywang135/Dice-Field-3D)
 
 You may
 * Add Dice 
