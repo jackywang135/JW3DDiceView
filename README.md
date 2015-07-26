@@ -1,12 +1,11 @@
 # JW3DDiceView
 
-Allows you to easily implement a 3D DiceView into your application. 
+Allows you to easily implement a 3D Dice rolling view into your UI with simple APIs. 
 
-Used in App [Dice Field 3D](https://itunes.apple.com/us/app/dice-field-3d/id946490633?mt=8) in the App Store. [Open Source Repository](https://github.com/jackywang135/Dice-Field-3D)
+Used in App [Dice Field 3D](https://itunes.apple.com/us/app/dice-field-3d/id946490633?mt=8) in the App Store. [Repository](https://github.com/jackywang135/Dice-Field-3D)
 
-Add the images in folder RequiredImages and ShakeAndRollDice.mp3 into your project. 
-
-You may
+Please add the images in folder "RequiredImages" into your image assets and "ShakeAndRollDice.mp3" into your project. 
+You may 
 * Add Dice 
 ```
   diceView.addDice()
@@ -26,8 +25,7 @@ And be notified when
 
 Customizable properties 
 * Dice Size 
-* Shake 
-* Device Motion 
+* Activate shake in response to Device Motion 
 * Sound
 * Background Image
 
