@@ -30,7 +30,7 @@ Customizable properties
 * Background Image
 
 
-![iPhone](http://a4.mzstatic.com/us/r30/Purple3/v4/d7/39/31/d739318d-2a20-d0fb-eb70-92b82474be8a/screen406x722.jpeg)
+![Demo](https://cloud.githubusercontent.com/assets/8235878/8893213/9b991162-33ba-11e5-8dcb-75d645bb5ee6.gif)
 
 
 ![iPad](http://a5.mzstatic.com/us/r30/Purple5/v4/5c/b0/9c/5cb09c3c-0264-d9b0-ce85-8764bce5757c/screen480x480.jpeg)
