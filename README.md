@@ -35,7 +35,8 @@ And be notified when
 You may customize these properties
 
 * Dice Size 
-* Activate shake in response to Device Motion 
+* Roll on shake
+* Roll in response to Device Motion 
 * Sound
 * Background Image
 
